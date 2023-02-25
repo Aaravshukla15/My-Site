@@ -11,10 +11,11 @@ To access my website, simply visit https://aaravshukla15.github.io/My-Site/ You 
 Navigation🚀🚀
 The website is divided into several sections, each accessible from the navigation bar at the top of the page. These sections include:
 
-      Home: A brief introduction to who I am and what I do.
-      About: A more detailed overview of my background, skills, and experience.
-      Blog: A space where I share my thoughts, opinions, and ideas related to https://linktr.ee/aaravshukla.
-      Contact: A contact form where you can reach out to me for inquiries, collaborations, or just to say hello.
+Home: A brief introduction to who I am and what I do.
+About: A more detailed overview of my background, skills, and experience.
+Blog: A space where I share my thoughts, opinions, and ideas related to https://linktr.ee/aaravshukla.
+Contact: A contact form where you can reach out to me for inquiries, collaborations, or just to say hello.
+
 Usage:
 Feel free to explore my website, view my work, and read my blog posts. If you are interested in collaborating with me, hiring me for a project, or simply want to learn more about my work, please fill out the contact form on the Contact page. I would love to hear from you!
 
